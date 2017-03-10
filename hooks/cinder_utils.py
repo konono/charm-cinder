@@ -127,6 +127,7 @@ COMMON_PACKAGES = [
     'python-mysqldb',
     'python-psycopg2',
     'qemu-utils',
+    'libapache2-mod-wsgi',
 ]
 
 API_PACKAGES = ['cinder-api']
